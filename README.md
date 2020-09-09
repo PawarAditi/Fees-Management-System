@@ -1,0 +1,4 @@
+# Fees-Management-System
+This project is a computerized system. It enables efficient storage of student records to properly manage the fee records of the students. And it also generates messages for due balances in students fee. The system is designed for fee management of a college administration department. It makes searching records easier and faster.
+In the existing system, Colleges have to manually maintain information regarding to fees deposited by the students. College management System are complex and time consuming to maintain fees of students by that very difficult. It is not properly capable to manage the student records with their fee details at a single place.
+The Fee Management System is a desktop system aimed at maintaining student records and their fee details. It also generates records like i.e. Fees paid, dues etc. The system requires small amount of time to generate reports needed to manage the fees of the students.
